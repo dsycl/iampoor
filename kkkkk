@@ -1,0 +1,4 @@
+for x in range(2):
+    for y in range(1):
+        print("kathleen",end=" ")
+    print("joy","Devera","18 yr old")
